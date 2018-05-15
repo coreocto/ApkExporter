@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">APK Exporter</string>
+    <string name="bSearch_text">Filter</string>
+    <string name="export_success_msg">APK exported to external storage.</string>
+    <string name="export_failed_msg">APK export failed.</string>
+    <string name="button_share">SHARE</string>
+    <string name="button_close">CLOSE</string>
+    <string name="choose_an_action">Choose an action</string>
+</resources>
